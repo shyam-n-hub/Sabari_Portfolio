@@ -244,7 +244,7 @@ export default function Portfolio() {
               </div>
               <div className="stat-item">
                 <Target className="stat-icon" />
-                <span>7.6CGPA</span>
+                <span> 7.69 CGPA</span>
               </div>
             </div>
             <div className="hero-buttons">
